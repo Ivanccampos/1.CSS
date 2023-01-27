@@ -1,0 +1,12 @@
+.div {
+    background-image: url("puesta.JPG");
+    background-repeat: no-repeat;
+}
+.div2 {
+    background-image: url("puesta.JPG");
+    background-size: 100px;
+}
+.rojo {
+    border: 5px dotted red;
+    color: red;   
+}

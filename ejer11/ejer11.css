@@ -1,0 +1,9 @@
+.aa {
+    color: red;
+}
+body {
+    background-image: url("Rana.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 150%;
+}

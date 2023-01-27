@@ -1,0 +1,25 @@
+.rojo {
+    border: 5px solid red;
+}
+.azul {
+    border: 5px solid blue; 
+}
+.amarillo {
+    border: 1px dotted yellow;
+}
+.amarillo2 {
+    border-style: dotted;
+    border-color: red green blue yellow;
+}
+.negrodoble {
+    border-style: double; 
+    border-width: 15px;
+}
+.negrodoble2 {
+    border-style: double;
+    border-width: 5px;
+}
+.negro {
+    border-style: solid;
+    border-width:2px 7px 5px 18px;
+}
