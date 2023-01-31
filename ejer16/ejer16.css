@@ -1,0 +1,29 @@
+.pej1 {
+    background-color: rgb(174, 177, 179);
+    font-family: Verdana;
+    font-size: smaller;
+    font-style: italic;
+}
+a{
+    text-decoration: underline;
+}
+
+.pej2 {
+    background-color: rgb(236, 236, 64);
+    font-family: 'Franklin Gothic Medium';
+    font-variant: small-caps;
+
+}
+.pej3 {
+    background-color: rgba(232, 98, 9, 0.6);
+    font-family: 'Times New Roman';
+    word-spacing: 3px;
+    letter-spacing: 3px;
+
+}
+.pej4 {
+    background-color: rgb(230, 160, 237, 0.6);
+    font-family: Verdana;
+    font-size: xx-small;
+    word-spacing: 8px;
+}
