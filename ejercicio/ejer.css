@@ -1,0 +1,34 @@
+
+
+.a {
+    border:  3px;
+    border-top-style:dotted ;
+    border-left-style: dashed ;
+    border-right-style:dashed ;
+    border-bottom-style: dotted ;
+    border-color: aquamarine orangered palevioletred blue;
+    padding: 5px;
+    max-width: 700px;
+}
+
+.b {
+    border:  4px;
+    border-style: solid;
+    border-color: black orangered palevioletred black;
+    border-spacing: 5px;
+    max-width: 700px;
+}
+
+.d {
+    border-style: solid;
+    border-width: 1px;
+    padding: 8px;
+    max-width: 700px;
+}
+ p{
+    margin-top: 5px;
+    margin-bottom: 5px; 
+    text-align: center;
+    font-family: verdana;
+
+ }
