@@ -1,0 +1,12 @@
+
+div {
+border: 2px solid gray;
+width: 800px;
+padding: 20px;
+}
+.capa1 {
+    position: fixed;
+    left: 80px;
+    top: 40px;
+    background-color: lightgrey;
+}

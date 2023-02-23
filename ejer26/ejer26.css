@@ -1,0 +1,25 @@
+
+.containerint{
+    border:black 3px solid ;
+    background-color: rgb(37, 180, 241);
+    padding: 10px;
+    min-width: 1000px;
+    max-width: 1000px;
+}
+.containerint2{
+    border:black 3px solid ;
+    background-image: linear-gradient(blue, red, lightgreen);
+    padding: 10px;
+    position: relative;
+    bottom: 50px;
+    left: 100px;
+    min-width: 1000px;
+    max-width: 1000px;
+}
+.containerint3{
+    border:black 3px solid ;
+    background-image: radial-gradient(red, yellow, green);
+    padding: 10px;
+    min-width: 1000px;
+    max-width: 1000px;
+}

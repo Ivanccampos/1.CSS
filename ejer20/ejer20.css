@@ -1,0 +1,10 @@
+.bloque {
+    background: blue;
+    color: white;
+    margin: 1px;
+    display: inline;
+}
+img{
+    float: left;
+    width: 300px;
+}

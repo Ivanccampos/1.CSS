@@ -1,0 +1,17 @@
+body {
+    background-color: #aaa;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.container{
+    margin: 90px auto;
+    background-color:rgba(134, 134, 134, 0.8);
+    padding: 75px 75px;
+    text-align: center;
+}
+.containerint{
+    background-color: beige;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}

@@ -1,0 +1,12 @@
+div {
+border: 2px solid #e9a3a3;
+padding: 1em;
+margin: 1em 0 1em 4em;
+width: 300px;
+}
+.imagen {
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    background-color: beige;
+}

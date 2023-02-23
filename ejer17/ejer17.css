@@ -1,0 +1,17 @@
+body {
+    background-color: #aaa;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.container{
+    max-width: 1200px;
+    margin: 50px auto;
+    background-color:rgba(134, 134, 134, 0.8);
+    padding: 75px 20px;
+    text-align: center;
+}
+.containerint{
+    margin: 40px auto;
+    background-color:rgba(220, 220, 220, 0.8);
+    padding: 65px 0px;
+}
