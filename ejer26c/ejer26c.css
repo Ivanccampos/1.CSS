@@ -20,6 +20,22 @@
     background-color: aqua;
     padding-left: 10px;
     padding-right: 10px;
-    min-width: 1000px;
-    max-width: 1000px;
+    min-width: 400px;
+    max-width: 400px;
+    position: absolute;
+    left: 170px;
+    top: 350px;
 }
+.containerint4{
+    border:black 3px solid ;
+    background-color: aqua;
+    padding-left: 10px;
+    padding-right: 10px;
+    min-width: 400px;
+    max-width: 400px;
+    position: absolute;
+    left: 170px;
+    top: 100px;
+
+}
+

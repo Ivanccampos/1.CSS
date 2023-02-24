@@ -1,0 +1,19 @@
+
+div{
+    border:black 3px solid ;
+    background-color: rgb(197, 165, 106);
+    padding: 20px;
+    text-align: center;
+    min-height: 100px;
+}
+img{
+    width: 100px;
+    height: 100px;
+
+}
+.b{
+    float: left;
+}
+.c{
+    float: right;
+}
